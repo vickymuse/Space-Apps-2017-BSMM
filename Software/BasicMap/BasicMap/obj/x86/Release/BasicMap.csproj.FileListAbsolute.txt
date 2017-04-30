@@ -1,0 +1,9 @@
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\bin\Release\BasicMap.exe
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\bin\Release\GMap.NET.Core.dll
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\bin\Release\GMap.NET.Core.xml
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\obj\x86\Release\BasicMap.csprojResolveAssemblyReference.cache
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\obj\x86\Release\BasicMap.MainForm.resources
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\obj\x86\Release\BasicMap.csproj.GenerateResource.Cache
+C:\Users\Juan Agustin\OneDrive\Secundaria\5to\Informatica\BasicMap\BasicMap\obj\x86\Release\BasicMap.exe
